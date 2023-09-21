@@ -6,10 +6,11 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "[Trustii] Allergen Chip Challenge - 3rd Rank",
+    title: "[Trustii] Allergen Chip Challenge - 1st Rank",
     cardImage: "assets/images/project-page/allergen.png",
     description: "Detect allergens and their severity",
-    Previewlink: "",
+    Previewlink: "https://www.linkedin.com/posts/trustii-io_machinelearning-jupyter-github-activity-7110610106140024832-8WVi?utm_source=share&utm_medium=member_desktop",
+    Githublink: "https://github.com/Trustii-team/AllergenChip/tree/main/2nd%20in%20private%20leaderboard"
   },
   {
     title: "[Zindi] Fault Impact Analysis: Towards Service-Oriented Network Operation & Maintenance by ITU",
