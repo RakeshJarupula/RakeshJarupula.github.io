@@ -13,6 +13,13 @@ const projects = [
     Githublink: "https://github.com/Trustii-team/AllergenChip/tree/main/2nd%20in%20private%20leaderboard"
   },
   {
+    title: "[Zindi]GEO-AI Challenge for Landslide Susceptibility Mapping by ITU - 5th Rank",
+    cardImage: "assets/images/project-page/landslide.jpeg",
+    description: " Can you build a landslide susceptibility map for a specific watershed in the Italian Alps?",
+    Previewlink: "https://zindi.africa/competitions/geo-ai-challenge-for-landslide-susceptibility-mapping/discussions/18851",
+    Githublink: "https://www.kaggle.com/code/jarupula/zindi-geoai-landslide-eda-fe"
+  },
+  {
     title: "[Zindi] Fault Impact Analysis: Towards Service-Oriented Network Operation & Maintenance by ITU",
     cardImage: "assets/images/project-page/5g_faults.png",
     description: "Predicting an NE’s average data rate change when a fault occurs",
