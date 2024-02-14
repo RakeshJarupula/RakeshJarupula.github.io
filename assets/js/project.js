@@ -20,6 +20,12 @@ const projects = [
     Githublink: "https://www.kaggle.com/code/jarupula/zindi-geoai-landslide-eda-fe"
   },
   {
+    title: "[Onward] Every Layer, Everywhere, All at Once: Segmenting Subsurface - 14th Rank",
+    cardImage: "assets/images/project-page/Mensa_5.png",
+    description: "Identify Horizons in Seismic data",
+    Previewlink: "https://thinkonward.com/app/c/challenges/every-layer",
+  },
+  {
     title: "[Zindi] Fault Impact Analysis: Towards Service-Oriented Network Operation & Maintenance by ITU",
     cardImage: "assets/images/project-page/5g_faults.png",
     description: "Predicting an NE’s average data rate change when a fault occurs",
