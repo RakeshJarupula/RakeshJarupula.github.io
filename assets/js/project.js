@@ -20,6 +20,13 @@ const projects = [
     Githublink: "https://www.kaggle.com/code/jarupula/zindi-geoai-landslide-eda-fe"
   },
   {
+    title: "[Onward] Reflection Connection - 10th Rank",
+    cardImage: "assets/images/project-page/rc.png",
+    description: "Transfer Learning",
+    Previewlink: "https://thinkonward.com/app/c/challenges/reflection-connection",
+    Githublink: "https://thinkonward.com/app/c/challenges/reflection-connection/leaderboard"
+  },
+  {
     title: "[Onward] Every Layer, Everywhere, All at Once: Segmenting Subsurface - 14th Rank",
     cardImage: "assets/images/project-page/Mensa_5.png",
     description: "Identify Horizons in Seismic data",
