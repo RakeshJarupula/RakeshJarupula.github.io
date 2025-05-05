@@ -6,6 +6,13 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
+    title: "[Kaggle]AI Mathematical Olympiad Progress Prize 2 - Silver",
+    cardImage: "assets/images/project-page/aimo.png",
+    description: "Solve national-level math challenges using artificial intelligence models",
+    Previewlink: "https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2/leaderboard",
+    Githublink: "https://www.kaggle.com/code/jarupula/aimo-2-lb-72-solution?scriptVersionId=228909031"
+  },
+  {
     title: "[Trustii] Allergen Chip Challenge - 1st Rank",
     cardImage: "assets/images/project-page/allergen.png",
     description: "Detect allergens and their severity",
